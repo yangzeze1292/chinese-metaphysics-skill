@@ -1,0 +1,14 @@
+{
+  "name": "chinese-metaphysics",
+  "version": "1.1.1",
+  "description": "中国传统玄学全能助手 — 涵盖易经、梅花易数、大六壬、小六壬、八字命理、风水堪舆、奇门遁甲、兴衰变化、合婚配对、解梦析梦十大体系。",
+  "locale": "zh-CN",
+  "license": "MIT",
+  "generator": "chinese-metaphysics-skill v1.1",
+  "scripts": [
+    "scripts/bagua_lookup.py",
+    "scripts/xiaoliuren_calc.py",
+    "scripts/liuren_paipan.py",
+    "scripts/hehun_score.py"
+  ]
+}
